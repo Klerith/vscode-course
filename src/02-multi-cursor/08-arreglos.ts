@@ -4,7 +4,7 @@
 //*        Y usarlo para editar un arreglo de días de la semana
 //*    
 //*    Tips:
-//*        ⇧ ⌥ ↑ / ↓
+//*        ⌥ ⌘ ↑ / ↓
 //*        Ctrl + Alt+ ↑ / ↓
 //*
 //*
