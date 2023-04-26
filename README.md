@@ -31,3 +31,5 @@ También hay un par de extensiones bastante útiles que les recomiendo de entrad
 * [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
 
 
+# Wallpapers que uso
+[Wallpapers Developer](https://drive.google.com/drive/folders/1ItU8rbSGJjnh2USOBGwaCo9nYKifPJ6m?usp=sharing)
