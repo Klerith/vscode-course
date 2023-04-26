@@ -4,7 +4,7 @@
 //*        Dar el formato deseado
 //*
 //*    Tips:
-//*        ⇧ ⌥ ↑ / ↓
+//*        ⌥ ⌘ ↑ / ↓
 //*        Transform to Uppercase: asignar atajo ---  ⌃ ⇧ U
 //*        Transform to Lowercase: asignar atajo ---  ⌃ ⇧ L
 //*
