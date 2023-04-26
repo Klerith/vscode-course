@@ -7,6 +7,8 @@ Un repositorio donde aprenderemos un par de trucos para trabajar rápidamente co
 
 También hay un par de extensiones bastante útiles que les recomiendo de entrada
 
+* [Descargar VSCode - Sitio Oficial](https://code.visualstudio.com/)
+
 ## Extensiones
 
 # Indispensables:
