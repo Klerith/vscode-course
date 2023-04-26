@@ -4,7 +4,7 @@
 //*         Dar el formato deseado
 //* 
 //*     Tips:
-//*         ⇧ ⌥ ↑ / ↓
+//*         ⌥ ⌘ ↑ / ↓
 //*         Ctrl + Alt+ ↑ / ↓
 //* 
 
