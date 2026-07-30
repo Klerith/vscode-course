@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://fernando-herrera.com/" target="blank"><img src="https://devtalles.com/images/vscode.png" width="100" alt="Nest Logo" /></a>
+  <img width="170" alt="VSCode" src="https://github.com/user-attachments/assets/f8473ffb-9239-432f-a7f4-3bed5c003772" />
+
 </p>
 
 # Curso de VSCode
